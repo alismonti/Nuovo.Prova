@@ -38,56 +38,51 @@ font-weight: 600;
 transition: color 0.3s ease;
 " onmouseover="this.style.color='#f0a500'" onmouseout="this.style.color='#000000'">Deutsch 🇩🇪</a>
 </nav>
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <div style="
+
+<div style="
   display: grid; 
   grid-template-columns: 180px 180px; 
   grid-template-rows: 180px 180px; 
-  gap: 15px 30px;  
+  gap: 30px; 
   justify-content: center;
   align-items: center;
-  margin: 0 auto 50px auto;  
-  padding: 0;
+  margin-bottom: 50px;
   transform: rotate(45deg);
   width: 420px;
+  margin-left: auto;
+  margin-right: auto;
+">
+  <img src="{{ site.baseurl }}/assets/images/libro.jpg" alt="img1" style="
+    width: 180px; 
+    height: 180px; 
+    object-fit: cover; 
+    border-radius: 18px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.25);
+    transform: rotate(-45deg);
   ">
-    <img src="{{ site.baseurl }}/assets/images/libro.jpg" alt="img1" style="
-      width: 180px; 
-      height: 180px; 
-      object-fit: cover; 
-      border-radius: 18px;
-      box-shadow: 0 8px 16px rgba(0,0,0,0.25);
-      transform: rotate(-45deg);
-        margin: 0;
-    ">
-    <img src="{{ site.baseurl }}/assets/images/mani.jpg" alt="img2" style="
-      width: 180px; 
-      height: 180px; 
-      object-fit: cover; 
-      border-radius: 18px;
-      box-shadow: 0 8px 16px rgba(0,0,0,0.25);
-      transform: rotate(-45deg);
-    margin: 0;
-    ">
-    <img src="{{ site.baseurl }}/assets/images/quaderno.jpg" alt="img3" style="
-      width: 180px; 
-      height: 180px; 
-      object-fit: cover; 
-      border-radius: 18px;
-      box-shadow: 0 8px 16px rgba(0,0,0,0.25);
-      transform: rotate(-45deg);
-    margin: 0;
-    ">
-    <img src="{{ site.baseurl }}/assets/images/biglietto.jpg" alt="img4" style="
-      width: 180px; 
-      height: 180px; 
-      object-fit: cover; 
-      border-radius: 18px;
-      box-shadow: 0 8px 16px rgba(0,0,0,0.25);
-      transform: rotate(-45deg);
-    margin: 0;
-    ">
-  </div>
+  <img src="{{ site.baseurl }}/assets/images/mani.jpg" alt="img2" style="
+    width: 180px; 
+    height: 180px; 
+    object-fit: cover; 
+    border-radius: 18px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.25);
+    transform: rotate(-45deg);
+  ">
+  <img src="{{ site.baseurl }}/assets/images/quaderno.jpg" alt="img3" style="
+    width: 180px; 
+    height: 180px; 
+    object-fit: cover; 
+    border-radius: 18px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.25);
+    transform: rotate(-45deg);
+  ">
+  <img src="{{ site.baseurl }}/assets/images/biglietto.jpg" alt="img4" style="
+    width: 180px; 
+    height: 180px; 
+    object-fit: cover; 
+    border-radius: 18px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.25);
+    transform: rotate(-45deg); ">
 </div>
 
 
