@@ -39,53 +39,53 @@ transition: color 0.3s ease;
 " onmouseover="this.style.color='#f0a500'" onmouseout="this.style.color='#ddd'">Deutsch 🇩🇪</a>
 </nav>
 
-
 <div style="
   display: grid; 
-  grid-template-columns: 140px 140px; 
-  grid-template-rows: 140px 140px; 
-  gap: 25px; 
+  grid-template-columns: 180px 180px; 
+  grid-template-rows: 180px 180px; 
+  gap: 30px; 
   justify-content: center;
   align-items: center;
-  margin-bottom: 40px;
+  margin-bottom: 50px;
   transform: rotate(45deg);
-  width: 350px;
+  width: 420px;
   margin-left: auto;
   margin-right: auto;
 ">
   <img src="{{ site.baseurl }}/assets/images/libro.jpg" alt="img1" style="
-    width: 140px; 
-    height: 140px; 
+    width: 180px; 
+    height: 180px; 
     object-fit: cover; 
-    border-radius: 15px;
-    box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+    border-radius: 18px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.25);
     transform: rotate(-45deg);
   ">
   <img src="{{ site.baseurl }}/assets/images/mani.jpg" alt="img2" style="
-    width: 140px; 
-    height: 140px; 
+    width: 180px; 
+    height: 180px; 
     object-fit: cover; 
-    border-radius: 15px;
-    box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+    border-radius: 18px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.25);
     transform: rotate(-45deg);
   ">
   <img src="{{ site.baseurl }}/assets/images/quaderno.jpg" alt="img3" style="
-    width: 140px; 
-    height: 140px; 
+    width: 180px; 
+    height: 180px; 
     object-fit: cover; 
-    border-radius: 15px;
-    box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+    border-radius: 18px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.25);
     transform: rotate(-45deg);
   ">
   <img src="{{ site.baseurl }}/assets/images/biglietto.jpg" alt="img4" style="
-    width: 140px; 
-    height: 140px; 
+    width: 180px; 
+    height: 180px; 
     object-fit: cover; 
-    border-radius: 15px;
-    box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+    border-radius: 18px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.25);
     transform: rotate(-45deg);
   ">
 </div>
+
 
 <div>
 <table style="
