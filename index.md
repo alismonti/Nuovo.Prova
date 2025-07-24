@@ -210,7 +210,7 @@ transition: color 0.3s ease;
           border-radius: 6px;
           font-weight: 600;
           transition: background-color 0.3s ease;
-        " onmouseover="this.style.backgroundColor='#218838'" onmouseout="this.style.backgroundColor='#808080'">Approfondisci in tedesco</a>
+        " onmouseover="this.style.backgroundColor='#8b0000'" onmouseout="this.style.backgroundColor='#808080'">Approfondisci in tedesco</a>
       </p>    
     </td>
     <td style="
@@ -233,7 +233,7 @@ transition: color 0.3s ease;
           border-radius: 6px;
           font-weight: 600;
           transition: background-color 0.3s ease;
-        " onmouseover="this.style.backgroundColor='#218838'" onmouseout="this.style.backgroundColor='#808080'">Approfondisci in italiano</a>
+        " onmouseover="this.style.backgroundColor='#8b0000'" onmouseout="this.style.backgroundColor='#808080'">Approfondisci in italiano</a>
       </p>    
     </td>
   </tr>
