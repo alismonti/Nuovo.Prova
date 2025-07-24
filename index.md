@@ -1,7 +1,6 @@
 ---
 title: Home
-layout: custom
-nav_order: 1
+layout: home
 ---
 
 
