@@ -42,50 +42,51 @@ transition: color 0.3s ease;
 
 <div style="
   display: grid; 
-  grid-template-columns: 80px 80px; 
-  grid-template-rows: 80px 80px; 
-  gap: 15px; 
+  grid-template-columns: 140px 140px; 
+  grid-template-rows: 140px 140px; 
+  gap: 25px; 
   justify-content: center;
   align-items: center;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
   transform: rotate(45deg);
-  width: 190px;
+  width: 350px;
   margin-left: auto;
   margin-right: auto;
 ">
   <img src="{{ site.baseurl }}/assets/images/libro.jpg" alt="img1" style="
-    width: 80px; 
-    height: 80px; 
+    width: 140px; 
+    height: 140px; 
     object-fit: cover; 
-    border-radius: 12px;
-    box-shadow: 0 3px 6px rgba(0,0,0,0.15);
+    border-radius: 15px;
+    box-shadow: 0 6px 12px rgba(0,0,0,0.2);
     transform: rotate(-45deg);
   ">
   <img src="{{ site.baseurl }}/assets/images/mani.jpg" alt="img2" style="
-    width: 80px; 
-    height: 80px; 
+    width: 140px; 
+    height: 140px; 
     object-fit: cover; 
-    border-radius: 12px;
-    box-shadow: 0 3px 6px rgba(0,0,0,0.15);
+    border-radius: 15px;
+    box-shadow: 0 6px 12px rgba(0,0,0,0.2);
     transform: rotate(-45deg);
   ">
   <img src="{{ site.baseurl }}/assets/images/quaderno.jpg" alt="img3" style="
-    width: 80px; 
-    height: 80px; 
+    width: 140px; 
+    height: 140px; 
     object-fit: cover; 
-    border-radius: 12px;
-    box-shadow: 0 3px 6px rgba(0,0,0,0.15);
+    border-radius: 15px;
+    box-shadow: 0 6px 12px rgba(0,0,0,0.2);
     transform: rotate(-45deg);
   ">
   <img src="{{ site.baseurl }}/assets/images/biglietto.jpg" alt="img4" style="
-    width: 80px; 
-    height: 80px; 
+    width: 140px; 
+    height: 140px; 
     object-fit: cover; 
-    border-radius: 12px;
-    box-shadow: 0 3px 6px rgba(0,0,0,0.15);
+    border-radius: 15px;
+    box-shadow: 0 6px 12px rgba(0,0,0,0.2);
     transform: rotate(-45deg);
   ">
 </div>
+
 <div>
 <table style="
   width: 100%; 
