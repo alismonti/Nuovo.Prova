@@ -5,10 +5,15 @@ description: >
   Germania: Kanzlei Kuehnel&Engels, Rudolf-Walther-Str. 1, 63584 Gruendau |  
   Tel: +49.(0)6051.48140, Mail: info@studiolegalekuehnel.com
 
-remote_theme: minimal-mistakes/minimal-mistakes
 
-plugins:
-  - jekyll-remote-theme
+theme: jekyll-theme-primer
 
-# (opzionale) Colore chiaro o scuro
-color_scheme: light
+# Esempio di navigazione personalizzata
+nav:
+  - title: Home
+    url: /
+  - title: Italiano
+    url: /italiano/
+  - title: Deutsch
+    url: /deutsch/
+
