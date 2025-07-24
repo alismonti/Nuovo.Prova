@@ -33,6 +33,7 @@ text-decoration: none;
 font-weight: 600;
 transition: color 0.3s ease;
 " onmouseover="this.style.color='#ffc107'" onmouseout="this.style.color='white'"> | Deutsch 🇩🇪</a>
+
 </nav>
 
 ## Il vostro partner per il diritto tedesco
