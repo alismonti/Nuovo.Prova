@@ -4,7 +4,7 @@ layout: default
 ---
 
 <nav style="
-background-color: grey;
+background-color: lightblue;
 padding: 12px 20px;
 border-radius: 6px;
 font-family: Arial, sans-serif;
@@ -86,7 +86,7 @@ transition: color 0.3s ease;
   ">
 </div>
 
-<div style="background: lightblue; padding: 0px;">
+<div style="background: lightblue; padding: 20px; width: 100%; box-sizing: border-box;">
 <table style="
   width: 100%; 
   border-collapse: separate; 
