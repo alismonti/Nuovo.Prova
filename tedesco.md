@@ -3,6 +3,11 @@ title: Deutsch
 permalink: /deutsch/
 layout: default
 ---
+<nav style="background:#007bff; padding:10px;">
+  <a href="/">Home</a> |
+  <a href="/italiano/">Italiano</a> |
+  <a href="/deutsch/">Deutsch</a>
+</nav>
 
 ## Ihr Partner im italienischen Recht
 

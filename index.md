@@ -2,6 +2,11 @@
 title: Home
 layout: default
 ---
+<nav style="background:#007bff; padding:10px;">
+  <a href="/">Home</a> |
+  <a href="/italiano/">Italiano</a> |
+  <a href="/deutsch/">Deutsch</a>
+</nav>
 
 Immagini da aggiungere
 
