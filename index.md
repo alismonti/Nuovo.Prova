@@ -90,7 +90,7 @@ transition: color 0.3s ease;
 <table style="
   width: 100%; 
   border-collapse: separate; 
-  border-spacing: 0 15px; 
+  border-spacing: 0 8px; /* meno spazio verticale */
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 ">
   <tr style="
@@ -100,7 +100,7 @@ transition: color 0.3s ease;
   ">
     <td style="
       vertical-align: top; 
-      padding: 25px 30px; 
+      padding: 15px 30px; /* padding verticale ridotto */
       width: 60%; 
       border-radius: 10px 0 0 10px;
       color: #333;
@@ -112,7 +112,7 @@ transition: color 0.3s ease;
     </td>
     <td style="
       vertical-align: top; 
-      padding: 25px 30px; 
+      padding: 15px 30px; /* padding verticale ridotto */
       border-radius: 0 10px 10px 0;
       background: #fff;
       color: #333;
@@ -132,7 +132,7 @@ transition: color 0.3s ease;
   ">
     <td style="
       vertical-align: top; 
-      padding: 25px 30px; 
+      padding: 15px 30px; /* padding verticale ridotto */
       width: 60%; 
       border-radius: 10px 0 0 10px;
       color: #333;
@@ -143,7 +143,7 @@ transition: color 0.3s ease;
     </td>
     <td style="
       vertical-align: top; 
-      padding: 25px 30px; 
+      padding: 15px 30px; /* padding verticale ridotto */
       border-radius: 0 10px 10px 0;
       background: #fff;
       color: #333;
@@ -154,7 +154,8 @@ transition: color 0.3s ease;
       <p>Il nostro Team di quattro avvocati e otto collaboratori garantisce una consulenza e assistenza efficiente sia in Italia sia in Germania.</p>
     </td>
   </tr>
-<!-- Nuova riga sotto -->
+
+  <!-- Nuova riga sotto -->
   <tr style="
     background: #f0f0f0; 
     box-shadow: 0 2px 8px rgba(0,0,0,0.05); 
@@ -162,7 +163,7 @@ transition: color 0.3s ease;
   ">
     <td style="
       vertical-align: top; 
-      padding: 25px 30px; 
+      padding: 15px 30px; /* padding verticale ridotto */
       width: 60%; 
       border-radius: 10px 0 0 10px;
       color: #333;
@@ -182,10 +183,10 @@ transition: color 0.3s ease;
           transition: background-color 0.3s ease;
         " onmouseover="this.style.backgroundColor='#218838'" onmouseout="this.style.backgroundColor='#28a745'">Approfondisci in tedesco</a>
       </p>    
-</td>
+    </td>
     <td style="
       vertical-align: top; 
-      padding: 25px 30px; 
+      padding: 15px 30px; /* padding verticale ridotto */
       border-radius: 0 10px 10px 0;
       background: #fff;
       color: #333;
@@ -194,7 +195,7 @@ transition: color 0.3s ease;
       box-shadow: inset 0 0 10px rgba(0,0,0,0.03);
     ">
       <p>Di particolare importanza per lo studio è il contatto personale, la reperibilità e l'informazione costante del cliente. </p>
-        <p>
+      <p>
         <a href="{{ site.baseurl }}/italiano/" style="
           display: inline-block;
           padding: 12px 25px; 
@@ -206,8 +207,8 @@ transition: color 0.3s ease;
           transition: background-color 0.3s ease;
         " onmouseover="this.style.backgroundColor='#218838'" onmouseout="this.style.backgroundColor='#28a745'">Approfondisci in italiano</a>
       </p>    
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 </div>
 
