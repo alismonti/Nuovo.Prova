@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: default
 title: Italiano
 permalink: /italiano/
+nav_order: 2
+has_children: true
 ---
 
 Lo Studio Legale Kuehnel è nato nel 2007 per seguire i clienti nella loro lingua madre sia in Italia sia in Germania.   
