@@ -9,8 +9,6 @@ remote_theme: minimal-mistakes/minimal-mistakes
 
 plugins:
   - jekyll-remote-theme
-  - jekyll-feed
-  - jekyll-seo-tag
 
 # (opzionale) Colore chiaro o scuro
 color_scheme: light
