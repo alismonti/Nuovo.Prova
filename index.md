@@ -86,7 +86,7 @@ transition: color 0.3s ease;
   ">
 </div>
 
-<div>
+<div style="background: lightblue; padding: 20px;">
 <table style="
   width: 100%; 
   border-collapse: separate; 
@@ -240,7 +240,7 @@ transition: color 0.3s ease;
 </table>
 </div>
 
-<div style="width: 100%; text-align: center;">
+<div style="width: 300%; text-align: center;">
   <div style="position: relative; display: inline-block; text-align: center;">
     <img src="{{ site.baseurl }}/assets/images/campanile.jpg" alt="immagine" style="display: block; width: 300px; height: auto; border-radius: 8px;">
     <a href="{{ site.baseurl }}/italiano/" style="
