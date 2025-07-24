@@ -1,0 +1,29 @@
+---
+---
+
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{ page.title }} - {{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <!-- altri meta, link CSS ecc... -->
+</head>
+<body>
+  <header>
+    <!-- puoi inserire header o includere file header -->
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    <p> Italia: Avv. Elke Kuehnel, Via Camperio 3, 20900 Monza (MB)  </p>
+  <p> Tel: +39.039.6829148, Fax: +39.039.9142269  </p>
+  <p> Germania: Kanzlei Kuehnel&Engels, Rudolf-Walther-Str. 1, 63584 Gruendau, </p>
+  <p> Tel: +49.(0)6051.48140, Mail: info@studiolegalekuehnel.com  |</p>
+  </footer>
+</body>
+</html>
