@@ -240,7 +240,23 @@ transition: color 0.3s ease;
 </table>
 </div>
 
-<div>
-<a href="{{ site.baseurl }}/" style="padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Fai una richiesta - Anfrage</a>
+<div style="position: relative; display: inline-block; text-align: center;">
+  <img src="{{ site.baseurl }}/assets/images/campanile.jpg" alt="immagine" style="display: block; width: 300px; height: auto; border-radius: 8px;">
+  <a href="{{ site.baseurl }}/italiano/" style="
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-weight: bold;
+    font-size: 2rem;
+    text-shadow: 2px 2px 5px rgba(0,0,0,0.7);
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 8px 16px;
+    border-radius: 6px;
+  ">
+    Richiesta
+  </a>
 </div>
 
