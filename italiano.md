@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Il Vostro Partner per il diritto tedesco🇹
+title: Italiano
 permalink: /italiano/
 ---
 
