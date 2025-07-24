@@ -10,6 +10,3 @@ remote_theme: poole/lanyon@v1.1.0
 
 plugins:
   - jekyll-remote-theme
-
-nav_sort: case_insensitive
-color_scheme: light
