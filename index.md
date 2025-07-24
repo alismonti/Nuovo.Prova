@@ -52,12 +52,12 @@ Immagini da aggiungere
     <td style="vertical-align: top; padding-right: 20px; width: 60%;">
       <p>Unsere Kanzlei wurde im Jahre 2007 gegündet mit dem Ziel, 
         ihre Mandanten sowohl in deutscher als auch in italienischer Sprache vertreten zu können.</p>
-        <a href="{{ site.baseurl }}/deutsch/" style="padding: 10px 20px; background-color: #28a745; color: white; text-decoration: none; border-radius: 5px;">Approfondisci in tedesco</a>
-
+        <p><a href="{{ site.baseurl }}/deutsch/" style="padding: 10px 20px; background-color: #28a745; color: white; text-decoration: none; border-radius: 5px;">Approfondisci in tedesco</a></p></td>
+        
     </td>
     <td style="vertical-align: top;">
       <p>Il nostro studio è nato nel 2007 per seguire i clienti nella loro lingua madre sia in Italia sia in Germania.</p>
-        <a href="{{ site.baseurl }}/italiano/" style="padding: 10px 20px; background-color: #28a745; color: white; text-decoration: none; border-radius: 5px;">Approfondisci in italiano</a>
+        <p><a href="{{ site.baseurl }}/italiano/" style="padding: 10px 20px; background-color: #28a745; color: white; text-decoration: none; border-radius: 5px;">Approfondisci in italiano</a></p>
 
     </td>
   </tr>
