@@ -113,7 +113,7 @@ transition: color 0.3s ease;
         <a href="{{ site.baseurl }}/deutsch/" style="
           display: inline-block;
           padding: 12px 25px; 
-          background-color: #28a745; 
+          background-color: grey; 
           color: white; 
           text-decoration: none; 
           border-radius: 6px;
@@ -137,7 +137,7 @@ transition: color 0.3s ease;
         <a href="{{ site.baseurl }}/italiano/" style="
           display: inline-block;
           padding: 12px 25px; 
-          background-color: #28a745; 
+          background-color: grey; 
           color: white; 
           text-decoration: none; 
           border-radius: 6px;
