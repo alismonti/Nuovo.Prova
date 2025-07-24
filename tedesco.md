@@ -1,9 +1,7 @@
 ---
-layout: default
 title: Deutsch
 permalink: /deutsch/
-nav_order: 3
-has_children: true
+weight: 3
 ---
 
 ## Ihr Partner im italienischen Recht

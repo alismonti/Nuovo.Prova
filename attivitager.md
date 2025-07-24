@@ -1,8 +1,6 @@
 ---
-layout: page
 title: Rechtsgebiete
 permalink: /Rechtsgebiete/
-parent: deutsch
 ---
 
 ## Italienisches Immobilienrecht
