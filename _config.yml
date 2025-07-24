@@ -12,11 +12,5 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Ordina manualmente la navbar
-nav_order:
-  - index.md
-  - italiano.md
-  - tedesco.md
-
 # (opzionale) Colore chiaro o scuro
 color_scheme: light
