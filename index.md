@@ -1,7 +1,9 @@
 ---
-layout: home
 title: Home
+layout: custom
+nav_order: 1
 ---
+
 
 <head>
 Immagini da aggiungere
