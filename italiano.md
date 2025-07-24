@@ -4,36 +4,41 @@ permalink: /italiano/
 layout: default
 ---
 
+
 <nav style="
-  background-color: #007bff; 
-  padding: 12px 20px; 
-  border-radius: 6px; 
-  font-family: Arial, sans-serif;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-  display: inline-flex;
-  gap: 15px;
+background-color: grey;
+padding: 12px 20px;
+border-radius: 6px;
+font-family: Arial, sans-serif;
+box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+display: inline-flex;
+gap: 10px;
+align-items: center;
 ">
-  <a href="{{ site.baseurl }}/" style="
-    color: white; 
-    text-decoration: none; 
-    font-weight: 600;
-    transition: color 0.3s ease;
-  " onmouseover="this.style.color='#ffc107'" onmouseout="this.style.color='white'">Home</a>
+<a href="{{ site.baseurl }}/" style="
+color: #ddd;
+text-decoration: none;
+font-weight: 600;
+transition: color 0.3s ease;
+" onmouseover="this.style.color='#f0a500'" onmouseout="this.style.color='#ddd'">Home</a>
+
+<span style="color: #888;">|</span>
 
 <a href="{{ site.baseurl }}/italiano/" style="
-color: white;
+color: #ddd;
 text-decoration: none;
 font-weight: 600;
 transition: color 0.3s ease;
-" onmouseover="this.style.color='#ffc107'" onmouseout="this.style.color='white'"> | Italiano 🇮🇹</a>
+" onmouseover="this.style.color='#f0a500'" onmouseout="this.style.color='#ddd'">Italiano 🇮🇹</a>
+
+<span style="color: #888;">|</span>
 
 <a href="{{ site.baseurl }}/deutsch/" style="
-color: white;
+color: #ddd;
 text-decoration: none;
 font-weight: 600;
 transition: color 0.3s ease;
-" onmouseover="this.style.color='#ffc107'" onmouseout="this.style.color='white'"> | Deutsch 🇩🇪</a>
-
+" onmouseover="this.style.color='#f0a500'" onmouseout="this.style.color='#ddd'">Deutsch 🇩🇪</a>
 </nav>
 
 ## Il vostro partner per il diritto tedesco
