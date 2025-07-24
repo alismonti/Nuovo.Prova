@@ -1,11 +1,8 @@
 ---
 layout: page
-title: Italiano
+title: Il Vostro Partner per il diritto tedesco🇹
 permalink: /italiano/
 ---
-
-## Il Vostro Partner per il diritto tedesco🇹
-
 
 Lo Studio Legale Kuehnel è nato nel 2007 per seguire i clienti nella loro lingua madre sia in Italia sia in Germania.   
 Il nostro team di quattro avvocati e otto collaboratori garantisce una consulenza e assistenza efficiente sia in Italia sia in Germania.   
