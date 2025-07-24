@@ -18,7 +18,7 @@ color: black;
 text-decoration: none;
 font-weight: 600;
 transition: color 0.3s ease;
-" onmouseover="this.style.color='#f0a500'" onmouseout="this.style.color='#ddd'">Home</a>
+" onmouseover="this.style.color='#f0a500'" onmouseout="this.style.color='#000000'">Home</a>
 
 <span style="color: #888;">|</span>
 
@@ -27,7 +27,7 @@ color: black;
 text-decoration: none;
 font-weight: 600;
 transition: color 0.3s ease;
-" onmouseover="this.style.color='#f0a500'" onmouseout="this.style.color='#ddd'">Italiano 🇮🇹</a>
+" onmouseover="this.style.color='#f0a500'" onmouseout="this.style.color='#000000'">Italiano 🇮🇹</a>
 
 <span style="color: #888;">|</span>
 
@@ -36,7 +36,7 @@ color: black;
 text-decoration: none;
 font-weight: 600;
 transition: color 0.3s ease;
-" onmouseover="this.style.color='#f0a500'" onmouseout="this.style.color='#ddd'">Deutsch 🇩🇪</a>
+" onmouseover="this.style.color='#f0a500'" onmouseout="this.style.color='#000000'">Deutsch 🇩🇪</a>
 </nav>
 
 <div style="
