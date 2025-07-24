@@ -3,11 +3,37 @@ title: Italiano
 permalink: /italiano/
 layout: default
 ---
-<nav style="background:#007bff; padding:10px;">
-  <a href="/">Home</a> |
-  <a href="/italiano/">Italiano</a> |
-  <a href="/deutsch/">Deutsch</a>
+<nav style="
+  background-color: #007bff; 
+  padding: 12px 20px; 
+  border-radius: 6px; 
+  font-family: Arial, sans-serif;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  display: inline-flex;
+  gap: 15px;
+">
+  <a href="/" style="
+    color: white; 
+    text-decoration: none; 
+    font-weight: 600;
+    transition: color 0.3s ease;
+  " onmouseover="this.style.color='#ffc107'" onmouseout="this.style.color='white'">Home</a>
+
+<a href="/italiano/" style="
+color: white;
+text-decoration: none;
+font-weight: 600;
+transition: color 0.3s ease;
+" onmouseover="this.style.color='#ffc107'" onmouseout="this.style.color='white'">Italiano 🇮🇹</a>
+
+<a href="/deutsch/" style="
+color: white;
+text-decoration: none;
+font-weight: 600;
+transition: color 0.3s ease;
+" onmouseover="this.style.color='#ffc107'" onmouseout="this.style.color='white'">Deutsch 🇩🇪</a>
 </nav>
+
 
 Lo Studio Legale Kuehnel è nato nel 2007 per seguire i clienti nella loro lingua madre sia in Italia sia in Germania.   
 Il nostro team di quattro avvocati e otto collaboratori garantisce una consulenza e assistenza efficiente sia in Italia sia in Germania.   
