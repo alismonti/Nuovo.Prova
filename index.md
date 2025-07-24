@@ -1,6 +1,7 @@
 ---
 title: Home
-weight: 1
+nav_order: 1
+layout: home
 ---
 
 Immagini da aggiungere

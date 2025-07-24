@@ -1,7 +1,7 @@
 ---
 title: Deutsch
 permalink: /deutsch/
-weight: 3
+nav_order: 3
 ---
 
 ## Ihr Partner im italienischen Recht
