@@ -14,7 +14,7 @@ gap: 10px;
 align-items: center;
 ">
 <a href="{{ site.baseurl }}/" style="
-color: #ddd;
+color: black;
 text-decoration: none;
 font-weight: 600;
 transition: color 0.3s ease;
@@ -23,7 +23,7 @@ transition: color 0.3s ease;
 <span style="color: #888;">|</span>
 
 <a href="{{ site.baseurl }}/italiano/" style="
-color: #ddd;
+color: black;
 text-decoration: none;
 font-weight: 600;
 transition: color 0.3s ease;
@@ -32,7 +32,7 @@ transition: color 0.3s ease;
 <span style="color: #888;">|</span>
 
 <a href="{{ site.baseurl }}/deutsch/" style="
-color: #ddd;
+color: black;
 text-decoration: none;
 font-weight: 600;
 transition: color 0.3s ease;
@@ -240,10 +240,9 @@ transition: color 0.3s ease;
 </table>
 </div>
 
-<div style="width: 100%; text-align: center;">
-  <div style="position: relative; display: inline-block; text-align: center;">
-<img src="{{ site.baseurl }}/assets/images/campanile.jpg" alt="immagine" style="display: block; width: 80%; max-width: 800px; height: auto; border-radius: 8px;">
-    <a href="{{ site.baseurl }}/italiano/" style="
+<div style="width: 100%; display: flex; justify-content: center; position: relative;">
+  <img src="{{ site.baseurl }}/assets/images/campanile.jpg" alt="immagine" style="width: 80%; max-width: 800px; height: auto; border-radius: 8px;">
+  <a href="{{ site.baseurl }}/italiano/" style="
       position: absolute;
       top: 50%;
       left: 50%;
@@ -258,11 +257,12 @@ transition: color 0.3s ease;
       border-radius: 6px;
       min-width: 120px;
       text-align: center;
-    ">
-      Richiesta
-    </a>
-  </div>
+  ">
+    Richiesta
+  </a>
 </div>
+
+
 
 
 
