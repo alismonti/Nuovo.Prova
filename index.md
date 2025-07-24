@@ -52,7 +52,7 @@ Immagini da aggiungere
     <td style="vertical-align: top; padding-right: 20px; width: 60%;">
       <p>Unsere Kanzlei wurde im Jahre 2007 gegündet mit dem Ziel, 
         ihre Mandanten sowohl in deutscher als auch in italienischer Sprache vertreten zu können.</p>
-        <p><a href="{{ site.baseurl }}/deutsch/" style="padding: 10px 20px; background-color: #28a745; color: white; text-decoration: none; border-radius: 5px;">Approfondisci in tedesco</a></p></td>
+        <p><a href="{{ site.baseurl }}/deutsch/" style="padding: 10px 20px; background-color: #28a745; color: white; text-decoration: none; border-radius: 5px;">Approfondisci in tedesco</a></p>
         
     </td>
     <td style="vertical-align: top;">
