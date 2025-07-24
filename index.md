@@ -240,26 +240,29 @@ transition: color 0.3s ease;
 </table>
 </div>
 
-<div style="position: relative; display: inline-block; text-align: center; margin: 0 auto;">
-  <img src="{{ site.baseurl }}/assets/images/campanile.jpg" alt="immagine" style="display: block; width: 300px; height: auto; border-radius: 8px;">
-  <a href="{{ site.baseurl }}/italiano/" style="
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
-    font-weight: bold;
-    font-size: 2rem;
-    text-shadow: 2px 2px 5px rgba(0,0,0,0.7);
-    text-decoration: none;
-    background-color: rgba(220, 53, 69, 0.85); /* rosso bootstrap scuro */
-    padding: 8px 16px;
-    border-radius: 6px;
-    min-width: 120px;
-    text-align: center;
-  ">
-    Richiesta
-  </a>
+<div style="width: 100%; text-align: center;">
+  <div style="position: relative; display: inline-block; text-align: center;">
+    <img src="{{ site.baseurl }}/assets/images/campanile.jpg" alt="immagine" style="display: block; width: 300px; height: auto; border-radius: 8px;">
+    <a href="{{ site.baseurl }}/italiano/" style="
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: white;
+      font-weight: bold;
+      font-size: 2rem;
+      text-shadow: 2px 2px 5px rgba(0,0,0,0.7);
+      text-decoration: none;
+      background-color: rgba(220, 53, 69, 0.85);
+      padding: 8px 16px;
+      border-radius: 6px;
+      min-width: 120px;
+      text-align: center;
+    ">
+      Richiesta
+    </a>
+  </div>
 </div>
+
 
 
