@@ -241,8 +241,8 @@ transition: color 0.3s ease;
 </div>
 
 <div style="position: relative; display: inline-block; text-align: center; margin: 0 auto;">
-  <img src="URL_DELLA_TUA_IMMAGINE" alt="immagine" style="display: block; width: 300px; height: auto; border-radius: 8px;">
-  <a href="URL_DEL_TUO_LINK" style="
+  <img src="{{ site.baseurl }}/assets/images/campanile.jpg" alt="immagine" style="display: block; width: 300px; height: auto; border-radius: 8px;">
+  <a href="{{ site.baseurl }}/italiano/" style="
     position: absolute;
     top: 50%;
     left: 50%;
