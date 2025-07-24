@@ -11,21 +11,21 @@ layout: default
   display: inline-flex;
   gap: 15px;
 ">
-  <a href="/" style="
+  <a href="{{ site.baseurl }}/" style="
     color: white; 
     text-decoration: none; 
     font-weight: 600;
     transition: color 0.3s ease;
   " onmouseover="this.style.color='#ffc107'" onmouseout="this.style.color='white'">Home</a>
 
-<a href="/italiano/" style="
+<a href="{{ site.baseurl }}/italiano/" style="
 color: white;
 text-decoration: none;
 font-weight: 600;
 transition: color 0.3s ease;
 " onmouseover="this.style.color='#ffc107'" onmouseout="this.style.color='white'">Italiano 🇮🇹</a>
 
-<a href="/deutsch/" style="
+<a href="{{ site.baseurl }}/deutsch/" style="
 color: white;
 text-decoration: none;
 font-weight: 600;
