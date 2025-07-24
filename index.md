@@ -86,7 +86,7 @@ transition: color 0.3s ease;
   ">
 </div>
 
-<div style="background: lightblue; padding: 20px; width: 100%; box-sizing: border-box;">
+<div style="background: lightblue; padding: 20px; width: 100%; margin: 0; box-sizing: border-box;">
 <table style="
   width: 100%; 
   border-collapse: separate; 
@@ -240,7 +240,7 @@ transition: color 0.3s ease;
 </table>
 </div>
 
-<div style="width: 100%; display: flex; justify-content: center; position: relative;">
+<div style="width: 100%; margin-top: 40px; display: flex; justify-content: center; position: relative;">
   <img src="{{ site.baseurl }}/assets/images/campanile.jpg" alt="immagine" style="width: 80%; max-width: 800px; height: auto; border-radius: 8px;">
   <a href="{{ site.baseurl }}/italiano/" style="
       position: absolute;
@@ -262,6 +262,13 @@ transition: color 0.3s ease;
   </a>
 </div>
 
+<footer style="background: lightblue; padding: 20px; margin-top: 40px; width: 100%; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1rem; color: #333;">
+  <div style="max-width: 1200px; margin: 0 auto;">
+    <p><strong>Italia:</strong> Avv. Elke Kuehnel, Via Camperio 3, 20900 Monza (MB) Tel: +39.039.6829148, Fax: +39.039.9142269</p>
+    <p><strong>Germania:</strong> Kanzlei Kuehnel&Engels, Rudolf-Walther-Str. 1, 63584 Gruendau, Tel: +49.(0)6051.48140</p>
+    <p><strong>Mail:</strong> <a href="mailto:info@studiolegalekuehnel.com" style="color: #333; text-decoration: underline;">info@studiolegalekuehnel.com</a></p>
+  </div>
+</footer>
 
 
 
