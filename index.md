@@ -171,6 +171,35 @@ transition: color 0.3s ease;
       line-height: 1.5;
     ">
       <p>Wir legen besonderen Wert auf den persönlichen und schnellen Kontakt und eine konstante Unterrichtung unserer Mandanten.</p>
+    </td>
+    <td style="
+      vertical-align: top; 
+      padding: 15px 30px; /* padding verticale ridotto */
+      border-radius: 0 10px 10px 0;
+      background: #fff;
+      color: #333;
+      font-size: 1rem;
+      line-height: 1.5;
+      box-shadow: inset 0 0 10px rgba(0,0,0,0.03);
+    ">
+      <p>Di particolare importanza per lo studio è il contatto personale, la reperibilità e l'informazione costante del cliente. </p>
+    </td>
+  </tr>
+<!-- Nuova riga sotto -->
+  <tr style="
+    background: #f0f0f0; 
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05); 
+    border-radius: 10px;
+  ">
+    <td style="
+      vertical-align: top; 
+      padding: 15px 30px; /* padding verticale ridotto */
+      width: 60%; 
+      border-radius: 10px 0 0 10px;
+      color: #333;
+      font-size: 1rem;
+      line-height: 1.5;
+    ">
       <p>
         <a href="{{ site.baseurl }}/deutsch/" style="
           display: inline-block;
@@ -194,7 +223,6 @@ transition: color 0.3s ease;
       line-height: 1.5;
       box-shadow: inset 0 0 10px rgba(0,0,0,0.03);
     ">
-      <p>Di particolare importanza per lo studio è il contatto personale, la reperibilità e l'informazione costante del cliente. </p>
       <p>
         <a href="{{ site.baseurl }}/italiano/" style="
           display: inline-block;
