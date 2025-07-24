@@ -2,6 +2,7 @@
 title: Home
 layout: default
 ---
+
 <nav style="
   background-color: #007bff; 
   padding: 12px 20px; 
@@ -23,15 +24,16 @@ color: white;
 text-decoration: none;
 font-weight: 600;
 transition: color 0.3s ease;
-" onmouseover="this.style.color='#ffc107'" onmouseout="this.style.color='white'">Italiano 🇮🇹</a>
+" onmouseover="this.style.color='#ffc107'" onmouseout="this.style.color='white'"> | Italiano 🇮🇹</a>
 
 <a href="{{ site.baseurl }}/deutsch/" style="
 color: white;
 text-decoration: none;
 font-weight: 600;
 transition: color 0.3s ease;
-" onmouseover="this.style.color='#ffc107'" onmouseout="this.style.color='white'">Deutsch 🇩🇪</a>
+" onmouseover="this.style.color='#ffc107'" onmouseout="this.style.color='white'"> | Deutsch 🇩🇪</a>
 </nav>
+
 
 
 Immagini da aggiungere
