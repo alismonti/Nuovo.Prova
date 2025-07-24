@@ -4,7 +4,7 @@ layout: default
 ---
 
 <nav style="
-background-color: #444444;
+background-color: grey;
 padding: 12px 20px;
 border-radius: 6px;
 font-family: Arial, sans-serif;
